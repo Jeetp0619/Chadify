@@ -1,0 +1,8 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/flex1edit" android:duration="200" />
+    <item android:drawable="@drawable/flex2edit" android:duration="200" />
+    <item android:drawable="@drawable/flex3edit" android:duration="200" />
+    <item android:drawable="@drawable/flex4edit" android:duration="500" />
+
+</animation-list>

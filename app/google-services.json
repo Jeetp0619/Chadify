@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064193990182",
+    "project_id": "chadify-e7926",
+    "storage_bucket": "chadify-e7926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064193990182:android:5b12600193c208a863d0e7",
+        "android_client_info": {
+          "package_name": "com.zybooks.chadify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064193990182-er23t4bnvkc4re4avmrk1k32pl3ojm53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDquOxlFql1N49Mjnc-B5YljoJqeWB3Hio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064193990182-er23t4bnvkc4re4avmrk1k32pl3ojm53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
