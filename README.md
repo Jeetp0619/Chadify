@@ -51,5 +51,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Christine-Bu
 ## Authors
 
 * **Jeet Patel** - *Comp Sci Student* - [Jeet Patel](https://github.com/Jeetp0619) - *Built Chadify*
-* **Erwin Pan** - *Comp Sci Student* - [Erwin Pan]() - *Built Chadify*
+* **Erwin Pan** - *Comp Sci Student* - [Erwin Pan](https://github.com/Conner7775) - *Built Chadify*
 
