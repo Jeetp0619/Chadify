@@ -1,6 +1,4 @@
 # Chadify
-Fitness Trainer
-
 
 ## Table Of Contents
 
