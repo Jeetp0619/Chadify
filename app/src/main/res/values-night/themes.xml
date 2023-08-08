@@ -4,4 +4,12 @@
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
     </style>
+
+    // studyHelper
+    <style name="Theme.StudyHelper" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimary">@color/paleblue_900</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/blue_900</item>
+    </style>
+
 </resources>
